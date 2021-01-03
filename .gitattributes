@@ -1,0 +1,2 @@
+saved_models/keypoints_model_relu_smoothl1_adam_10_16.pt filter=lfs diff=lfs merge=lfs -text
+saved_models/keypoints_model_relu_smoothl1_rmsprop_10_10.pt filter=lfs diff=lfs merge=lfs -text
