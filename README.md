@@ -176,10 +176,10 @@ Alternatively, your submission could consist of only the **GitHub link** to your
 
 ## References
 Useful links regarding the Kaggle competition and existing solutions to the facial keypoint detection problem:
-*[NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
-*[Kaggle competition](https://www.kaggle.com/c/facial-keypoints-detection)
-*[Berkeley solution](https://www.ischool.berkeley.edu/projects/2015/facial-keypoints-detection-effort-top-kaggle-leaderboard)
-*[Stanford solution](http://cs231n.stanford.edu/reports/2016/pdfs/007_Report.pdf)
-*[Transfer learning approach](https://cs231n.github.io/transfer-learning/) and [PyTorch tutorial](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html)
+* [NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
+* [Kaggle competition](https://www.kaggle.com/c/facial-keypoints-detection)
+* [Berkeley solution](https://www.ischool.berkeley.edu/projects/2015/facial-keypoints-detection-effort-top-kaggle-leaderboard)
+* [Stanford solution](http://cs231n.stanford.edu/reports/2016/pdfs/007_Report.pdf)
+* [Transfer learning approach](https://cs231n.github.io/transfer-learning/) and [PyTorch tutorial](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html)
 
 LICENSE: This project is licensed under the terms of the MIT license.
